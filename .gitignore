@@ -1,0 +1,9 @@
+*images*
+*labels*
+*.yaml
+*background*
+*fakes*
+*tvlogos*
+.vscode
+build
+*__pycache__
