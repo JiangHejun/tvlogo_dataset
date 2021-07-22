@@ -5,4 +5,4 @@
 * [x] 图像旋转
 * [x] 台标抠图
 * **在运行`python3 build.py`之前，请先运行`python3 build.py --finetune`进行微调**
-* **[background](./dataset/background)和[tvlogos](./dataset/tvlogos)的目录结构固定，不可改变；增加新的标签（签名）请在[tvlogos](./dataset/tvlogos)目录之下新建对应的文件夹**
+* **[./dataset/background](./dataset/background)和[./dataset/tvlogos](./dataset/tvlogos)的目录结构固定，不可改变；增加新的标签（签名）请在[./dataset/tvlogos](./dataset/tvlogos)目录之下新建对应的文件夹**
